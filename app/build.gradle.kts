@@ -6,7 +6,7 @@ plugins {
 android {
     namespace = "dev.pranav.memes"
     compileSdk = 34
-    buildToolsVersion = "34.0.3"
+    buildToolsVersion = "34.0.0"
 
     defaultConfig {
         applicationId = "dev.pranav.memes"
