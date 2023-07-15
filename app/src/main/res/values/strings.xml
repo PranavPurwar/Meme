@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Meme</string>
+    <string name="refresh">Refresh</string>
+    <string name="subreddit">Subreddit</string>
+    <string name="meme_image">Meme Image</string>
+    <string name="r_mandroiddev">r/mAndroidDev</string>
 </resources>
