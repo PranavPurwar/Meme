@@ -3,7 +3,8 @@
 Scrapes memes from subreddits and provides an elegant way to view them.
 
 ## Screenshots
- [[Screenshot](screenshot.webp)
+ ![Screenshot](screenshot.webp)
+![another](another.webp)
 
 # Features
 - Choose custom subreddits to scrape from
