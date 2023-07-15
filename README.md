@@ -5,8 +5,8 @@ Scrapes memes from subreddits and provides an elegant way to view them.
 ## Screenshots
 
 <p float="left">
-<img src="screenshot.webp" width="300" height="600"  alt="1"/>
-<img src="another.webp" width="300" height="600"  alt="2"/>
+<img src="screenshot.webp" width="300" height="650"  alt="1"/>
+<img src="another.webp" width="300" height="650"  alt="2"/>
 </p>
 
 # Features
